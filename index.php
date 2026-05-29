@@ -6,6 +6,7 @@ require_once 'modelo/auto.php';
 
 $m = new Motor();
 $m->Tipo = '3.0';
+
 $m->Potencia = '300 HP';
 $m->Combustible = 'GNC';
 
