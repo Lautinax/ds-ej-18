@@ -10,7 +10,6 @@ $m->Potencia = '300 HP';
 $m->Combustible = 'GNC';
 
 
-
 $a = new Auto();
 $a->Marca = 'Peugeot';
 $a->Modelo = 'Planchado';
